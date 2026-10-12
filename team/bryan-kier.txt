@@ -1,0 +1,7 @@
+Full name: Bryan Kier Leopando
+GitHub username: bryan-kier
+Group (1-4): 1
+Member # (1-6): 2
+Task: DevOps
+One DOM/JS bug I now know how to spot: href links
+One thing I bring to this team: Tech Support
