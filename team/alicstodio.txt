@@ -1,0 +1,7 @@
+Full name: Jose Alejandro C. Custodio
+GitHub username: alicstodio
+Group (1-4): 1
+Member # (1-6): 4
+Task: Frontend
+One DOM/JS bug I now know how to spot: Event bubbling, causing one click to trigger multiple different actions. 
+One thing I bring to this team: Problem-solving
