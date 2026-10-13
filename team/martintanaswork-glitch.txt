@@ -1,1 +1,7 @@
-
+Full name: Martin Jed Tan
+GitHub username: martintanaswork-glitch
+Group (1-4): 1
+Member # (1-6): 6
+Task: Frontend
+One DOM/JS bug I now know how to spot: A file is saved on the wrong branch instead of main.
+One thing I bring to this team: Endless optimism, ability to share ideas, and help to complete our tasks.
