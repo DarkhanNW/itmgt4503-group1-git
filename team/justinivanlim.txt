@@ -1,0 +1,7 @@
+Full name: Justin Ivan V. Lim
+GitHub username: justinivanlim
+Group (1-4): 1
+Member # (1-6): 3
+Task: Systems Administration
+One DOM/JS bug I now know how to spot: Syntax errors (i.e. missing symbols, wrong capitalization)
+One thing I bring to this team: Personal and Collaborative utilization of GitHub
