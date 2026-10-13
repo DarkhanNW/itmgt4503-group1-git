@@ -1,0 +1,7 @@
+Full name: Rynne Daven A. Barrios
+GitHub username: rynnoceros-12
+Group (1-4): 1
+Member # (1-6): 5  
+Task: Database
+One DOM/JS bug I now know how to spot: Event Listener Bugs
+One thing I bring to this team: Branch Management
